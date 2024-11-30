@@ -9,6 +9,6 @@ About the analysis ive done plotly sunburst is a hierarchical visualization tool
 Each level of the hierarchy is represented by one ring or circle, with the root at the center.
 
 Suggestion for sample data analysis to clearly shows region wise how online sales are done it:
-*Add more benifits for north america credit card payment customer to improve higher in sales and customer will trigger to purchase more products.
+*Add more benefits for north america credit card payment customer to improve higher in sales and customer will trigger to purchase more products.
 *Apart from electronics and books add additional benefits or offering the other product category also will.
 same be like to other region also we can able to analysis the data and improve the online sales will hit in the revenue.
